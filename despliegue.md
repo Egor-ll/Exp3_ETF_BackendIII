@@ -1,7 +1,7 @@
 # ☁️ BancoXYZ — Guía de despliegue · Semana 9
 
 > **Desarrollo Backend III (PBY2203) · Evaluación Final Transversal**
-> **Autora: Natalia Alvarado**
+> **Responsable de esta entrega: Egor Llancapichun**
 > Docker Compose · PostgreSQL 17 · Keycloak · TLS · Kafka · Spring Cloud · AWS EC2
 
 ---
@@ -45,11 +45,11 @@ java -version
 
 ## 2. Obtener el código correcto
 
-Repositorio: https://github.com/LadyRed145/bancoxyzbatch
+Repositorio de publicación: https://github.com/Egor-ll/Exp3_ETF_BackendIII
 
 ```fish
-git clone https://github.com/LadyRed145/bancoxyzbatch.git
-cd bancoxyzbatch
+git clone https://github.com/Egor-ll/Exp3_ETF_BackendIII.git
+cd Exp3_ETF_BackendIII
 ```
 
 **Antes de desplegar:** comprobar que la rama publicada incluya `Semana 9/`, `docker-compose.yml`, `pom.xml` y los documentos actualizados. El enlace público fue accesible al revisarlo, pero no se pudo confirmar que la rama publicada contuviera la Semana 9 final; debes subir esos cambios para reproducirla desde GitHub.
@@ -371,4 +371,4 @@ El despliegue de BancoXYZ comienza con código coherente, variables protegidas y
 
 ---
 
-**BancoXYZ · Natalia Alvarado · Desarrollo Backend III (PBY2203) · Semana 9**
+**BancoXYZ · Egor Llancapichun · Desarrollo Backend III (PBY2203) · Semana 9**
