@@ -1,7 +1,7 @@
 # 🧪 BancoXYZ — Instrucciones de ejecución y pruebas · Semana 9
 
 > **Evaluación Final Transversal · Desarrollo Backend III (PBY2203)**
-> **Autora: Natalia Alvarado**
+> **Responsable de esta entrega: Egor Llancapichun**
 
 ---
 
@@ -196,4 +196,4 @@ No utilizar como auditoría final el viejo `verificar_entrega_completa.fish`, qu
 
 ---
 
-**BancoXYZ · Natalia Alvarado · Desarrollo Backend III (PBY2203) · Semana 9**
+**BancoXYZ · Egor Llancapichun · Desarrollo Backend III (PBY2203) · Semana 9**
